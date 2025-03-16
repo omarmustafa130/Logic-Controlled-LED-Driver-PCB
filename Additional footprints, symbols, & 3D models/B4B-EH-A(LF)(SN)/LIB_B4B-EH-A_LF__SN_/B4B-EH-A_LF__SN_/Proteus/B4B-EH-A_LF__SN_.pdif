@@ -1,0 +1,218 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "B4B-EH-A_LF__SN_"
+   (description "JST (JAPAN SOLDERLESS TERMINALS) - B4B-EH-A(LF)(SN) - CONNECTOR, HEADER, THT, 2.5MM, 4WAY")
+   (family "CON")
+   (package "SHDRV4W111P0_250_1X4_1250X380X600P")
+   (attribute "Datasheet Link" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/4db6e353008cd822f9644e9913ed09f5.pdf")
+   (attribute "Geometry.Height" "6mm")
+   (attribute "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)")
+   (attribute "Manufacturer_Part_Number" "B4B-EH-A(LF)(SN)")
+   (attribute "Mouser Part Number" "306-B4BEHALFSN")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/JST-Commercial/B4B-EH-ALFSN?qs=cdbOS8ANM9DAINrtzhP3dA%3D%3D")
+   (attribute "Arrow Part Number" "B4B-EH-A(LF)(SN)")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/b4b-eh-a-lf-sn/jst-manufacturing?region=europe")
+   (gate
+    (symbol "B4B-EH-A_LF__SN_")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+   )
+  )
+  (symbol "B4B-EH-A_LF__SN_"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SHDRV4W111P0_250_1X4_1250X380X600P"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.001)
+     (path
+      (closed true)
+      (pt -2.5 -2.2)
+      (pt 10 -2.2)
+      (pt 10 1.6)
+      (pt -2.5 1.6)
+      (pt -2.5 -2.2))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.5 -2.2)
+      (pt 10 -2.2)
+      (pt 10 1.6)
+      (pt -2.5 1.6)
+      (pt -2.5 -2.2))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.825 -0.825)
+      (pt -0.825 0.825)
+      (pt 0.825 0.825)
+      (pt 0.825 -0.825)
+      (pt -0.825 -0.825))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (circle
+      (pt 1.675 0) (pt 3.325 0)
+     )
+    )
+   )
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (circle
+      (pt 4.175 0) (pt 5.825 0)
+     )
+    )
+   )
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (circle
+      (pt 6.675 0) (pt 8.325 0)
+     )
+    )
+   )
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.1 -1.8)
+      (pt 9.6 -1.8)
+      (pt 9.6 1.2)
+      (pt -2.1 1.2)
+      (pt -2.1 -1.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.5 1.6)
+      (pt 10 1.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.5 -2.2)
+      (pt 10 -2.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.5 -2.2)
+      (pt -2.5 1.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 10 -2.2)
+      (pt 10 1.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.25)
+     (circle
+      (pt -0.125 2.175) (pt 0.125 2.175)
+     )
+    )
+   )
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -2.75 -2.45)
+      (pt 10.25 -2.45)
+      (pt 10.25 1.85)
+      (pt -2.75 1.85)
+      (pt -2.75 -2.45))))
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (circle
+      (pt -0.35 0) (pt 0.35 0)
+     )
+    )
+   )
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed false)
+      (pt 0 -0.5)
+      (pt 0 0.5))))
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed false)
+      (pt -0.5 0)
+      (pt 0.5 0))))
+   (leg 1 (pt 0 0) (padstack 1))
+   (leg 2 (pt 2.5 0) (padstack 0))
+   (leg 3 (pt 5 0) (padstack 0))
+   (leg 4 (pt 7.5 0) (padstack 0))
+   (padstack 0
+    (hole 1.1)
+    (plated true)
+    (pad (layer TCOP) (round 1.65))
+    (pad (layer INNER) (round 1.6))
+   )
+   (padstack 1
+    (hole 1.1)
+    (plated true)
+    (pad (layer TCOP) (square 1.65))
+    (pad (layer INNER) (round 1.6))
+   )
+   (model "B4B-EH-A_LF__SN_.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

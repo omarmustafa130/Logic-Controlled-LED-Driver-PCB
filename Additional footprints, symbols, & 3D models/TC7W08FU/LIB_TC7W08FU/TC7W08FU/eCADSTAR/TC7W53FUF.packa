@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TC7W08FU"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-11-24-15:53:31)
+    (mountForm default
+        (footprintRef "TC7W53FUF")
+        (spec "System")
+    )
+)

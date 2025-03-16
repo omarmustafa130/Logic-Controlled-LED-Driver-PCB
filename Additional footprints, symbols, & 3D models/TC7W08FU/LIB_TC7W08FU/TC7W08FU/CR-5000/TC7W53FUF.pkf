@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "TC7W53FUF"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "TC7W53FUF")
+        (spec "default")
+    )
+)

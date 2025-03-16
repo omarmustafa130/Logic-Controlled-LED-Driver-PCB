@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LM7805MPX/NOPB
+PartCategory=Integrated Circuit
+PackageCategory=SOT223 (3-Pin)
+PinCount=4
+Version=1.1
+Released=2018-04-10 15:50:35
+Downloaded=2025-03-14 02:21:56
+3D=Y

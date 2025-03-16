@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CD74HCT11M96
+D High Speed CMOS Logic Triple 3-Input AND Gates
+K
+F http://www.ti.com/lit/gpn/cd74hct11
+$ENDCMP
+#
+#End Doc Library

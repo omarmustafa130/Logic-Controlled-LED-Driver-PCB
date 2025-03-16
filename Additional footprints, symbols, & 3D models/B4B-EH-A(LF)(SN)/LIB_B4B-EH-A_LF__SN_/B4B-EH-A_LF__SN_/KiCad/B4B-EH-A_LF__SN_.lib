@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model B4B-EH-A_LF__SN_
+#/238891/962533/2.50/4/4/Connector
+DEF B4B-EH-A_LF__SN_ J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "B4B-EH-A_LF__SN_" 650 200 50 H V L CNN
+F2 "SHDRV4W111P0_250_1X4_1250X380X600P" 650 100 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/4db6e353008cd822f9644e9913ed09f5.pdf" 650 0 50 H I L CNN
+F4 "JST (JAPAN SOLDERLESS TERMINALS) - B4B-EH-A(LF)(SN) - CONNECTOR, HEADER, THT, 2.5MM, 4WAY" 650 -100 50 H I L CNN "Description"
+F5 "6" 650 -200 50 H I L CNN "Height"
+F6 "JST (JAPAN SOLDERLESS TERMINALS)" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "B4B-EH-A(LF)(SN)" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "306-B4BEHALFSN" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/JST-Commercial/B4B-EH-ALFSN?qs=cdbOS8ANM9DAINrtzhP3dA%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "B4B-EH-A(LF)(SN)" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/b4b-eh-a-lf-sn/jst-manufacturing?region=europe" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 0 -300 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NL17SZ11DBVT1G
+D High Speed: tPD = 2.4 ns (Typ) @ VCC = 5.0 V; Designed for 1.65 V to 5.5 V VCC Operation; Low Power Dissipation: ICC = 1 A (Max) at TA = 25C; 24 mA Balanced Output Source and Sink Capability; Balanced Propagation Delays; Over-Voltage Tolerant Inputs and Outputs; UltraSmall Packages; These are PbFree Devices
+K
+F https://www.onsemi.com/pub/Collateral/NL17SZ11-D.PDF
+$ENDCMP
+#
+#End Doc Library

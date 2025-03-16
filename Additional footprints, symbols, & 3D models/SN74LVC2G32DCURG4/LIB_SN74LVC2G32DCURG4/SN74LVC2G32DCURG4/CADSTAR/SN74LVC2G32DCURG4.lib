@@ -1,0 +1,16 @@
+.SN74LVC2G32DCURG4 :1 ;OR Gate 2-Element 2-IN CMOS 8-Pin VSSOP T/R
+SOP50P310X90-8N
+*STM IC
+*NGS
+*PLB 1="1A" 2="1B" 3="2Y" 4="GND" 5="2A" 6="2B" 7="1Y" 8="VCC"
+*MXP 8
+*DFN SN74LVC2G32DCURG4
+~!Mouser Part Number (595-74LVC2G32DCURG4)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LVC2G32DCURG4?qs=nqigI8dpoHK3mpTBwiNlKA%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (SN74LVC2G32DCURG4)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/sn74lvc2g32.pdf?ts=1619327696294&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FSN74LVC2G32)
+~!Height (0.9mm)
+~!3D_Model (SN74LVC2G32DCURG4)
+SN74LVC2G32DCURG4
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

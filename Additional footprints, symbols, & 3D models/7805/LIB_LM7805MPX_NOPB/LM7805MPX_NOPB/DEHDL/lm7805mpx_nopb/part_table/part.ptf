@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LM7805MPX_NOPB'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT", "TJ", "MTBF", "POWER", "SLOPE", "SUBTYPE", "PACKAGE", "RJA", "IPEAK", "VCC_MAX", "VCC_MIN", "IOUT_MAX", "IOUT_MIN", "ICC", "IGND", "RCA", "RJC", "ICCQ", "TECHNOLOGY", "ISHORT";
+{========================================================================================}
+ "Texas Instruments", "LM7805MPX/NOPB" (!) = "", "SOT230P700X180-4N", "SOT223 (3-Pin)", "595-LM7805MPX/NOPB", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM7805MPX-NOPB?qs=gO6GG99qvRCSwIVAoVKHPw%3D%3D", "Linear Voltage Regulators 1.5-A, Wide VIN Fixed Voltage Regulators 4-SOT-223 0 to 0", "https://www.arrow.com/en/products/lm7805mpxnopb/texas-instruments", "1.8 mm", "150", "", "", "", "FIXED VOLTAGE REGULATOR SMD", "SOT-223-4", "62.1", "2.4", "", "", "", "", "", "", "", "44", "8.5m", "BIPOLAR", "2.1"
+END_PART
+
+END.

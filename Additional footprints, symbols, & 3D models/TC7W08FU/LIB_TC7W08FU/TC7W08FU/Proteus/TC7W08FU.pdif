@@ -1,0 +1,146 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "TC7W08FU"
+   (description "One-Gate Logic(L-MOS), 2-Input/AND, SOT-505(SM8)")
+   (family "ANA")
+   (package "TC7W53FUF")
+   (attribute "Datasheet Link" "https://toshiba.semicon-storage.com/info/docget.jsp?did=20199&prodName=TC7W08FU")
+   (attribute "Geometry.Height" "1.3mm")
+   (attribute "Manufacturer_Name" "Toshiba")
+   (attribute "Manufacturer_Part_Number" "TC7W08FU")
+   (attribute "Mouser Part Number" "757-TC7W08FU")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Toshiba/TC7W08FU?qs=6ZVwTuetbD6UzVSf2Rcgiw%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "TC7W08FU")
+    (pin "1A" 1 PS)
+    (pin "1B" 2 PS)
+    (pin "2Y" 3 PS)
+    (pin "GND" 4 PS)
+    (pin "2A" 5 PS)
+    (pin "2B" 6 PS)
+    (pin "1Y" 7 PS)
+    (pin "VCC" 8 PS)
+   )
+  )
+  (symbol "TC7W08FU"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "TC7W53FUF"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.4 1.45)
+      (pt 1.4 1.45)
+      (pt 1.4 -1.45)
+      (pt -1.4 -1.45)
+      (pt -1.4 1.45))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.4 3.15)
+      (pt 2.4 3.15)
+      (pt 2.4 -3.15)
+      (pt -2.4 -3.15)
+      (pt -2.4 3.15))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.975 -2.6)
+      (arc (pt -0.975 -2.600) (pt -1.025 -2.700) (pt -0.925 -2.600) (start 180.0) (sweep 90.0))
+      (pt -0.975 -2.7)
+      (arc (pt -0.975 -2.700) (pt -1.025 -2.700) (pt -0.925 -2.600) (start 180.0) (sweep -90.0))
+      (pt -0.975 -2.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 1.4 1.4)
+      (pt 1.4 -1.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.4 1.4)
+      (pt -1.4 -1.4))))
+   (leg 1 (pt -0.975 -1.700) (padstack 0))
+   (leg 2 (pt -0.325 -1.700) (padstack 0))
+   (leg 3 (pt 0.325 -1.700) (padstack 0))
+   (leg 4 (pt 0.975 -1.700) (padstack 0))
+   (leg 5 (pt 0.975 1.700) (padstack 0))
+   (leg 6 (pt 0.325 1.700) (padstack 0))
+   (leg 7 (pt -0.325 1.700) (padstack 0))
+   (leg 8 (pt -0.975 1.700) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.400 0.900 0 0 90.000))
+   )
+   (model "TC7W08FU.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

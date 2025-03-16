@@ -1,0 +1,16 @@
+.NL17SZ11DBVT1G :1 ;High Speed: tPD = 2.4 ns (Typ) @ VCC = 5.0 V; Designed for 1.65 V to 5.5 V VCC Operation; Low Power Dissipation: ICC = 1 A (Max) at TA = 25C; 24 mA Balanced Output Source and Sink Capability; Balanced Propagation Delays; Over-Voltage Tolerant Inputs and Outputs; UltraSmall Packages; These are PbFree Devices
+SOT95P275X110-6N
+*STM IC
+*NGS
+*PLB 1="A" 2="GND" 3="B" 4="Y" 5="VCC" 6="C"
+*MXP 6
+*DFN NL17SZ11DBVT1G
+~!Mouser Part Number (863-NL17SZ11DBVT1G)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi/NL17SZ11DBVT1G?qs=xZ%2FP%252Ba9zWqZnwqtKbSYP0Q%3D%3D)
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (NL17SZ11DBVT1G)
+~!Link Datasheet (https://www.onsemi.com/pub/Collateral/NL17SZ11-D.PDF)
+~!Height (1.1mm)
+~!3D_Model (NL17SZ11DBVT1G)
+NL17SZ11DBVT1G
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

@@ -1,0 +1,16 @@
+.SN74LVC2G04DBVR :1 ;DUAL INVERTER GATE
+SOT95P280X145-6N
+*STM IC
+*NGS
+*PLB 1="1A" 2="GND" 3="2A" 4="2Y" 5="VCC" 6="1Y"
+*MXP 6
+*DFN SN74LVC2G04DBVR
+~!Mouser Part Number (595-SN74LVC2G04DBVR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LVC2G04DBVR?qs=HE9hdJajmeqXJJ9RII89dg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (SN74LVC2G04DBVR)
+~!Link Datasheet (http://www.ti.com/lit/gpn/sn74lvc2g04)
+~!Height (1.45mm)
+~!3D_Model (SN74LVC2G04DBVR)
+SN74LVC2G04DBVR
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

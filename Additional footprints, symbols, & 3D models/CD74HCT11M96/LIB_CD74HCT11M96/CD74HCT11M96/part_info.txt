@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=CD74HCT11M96
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=14
+Version=1.1
+Released=2020-09-16 05:43:38
+Downloaded=2025-03-15 20:02:06
+3D=Y

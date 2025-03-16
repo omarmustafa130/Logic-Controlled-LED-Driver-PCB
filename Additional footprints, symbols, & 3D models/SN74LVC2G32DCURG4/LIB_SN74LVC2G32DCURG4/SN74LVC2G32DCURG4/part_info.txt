@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=SN74LVC2G32DCURG4
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2021-04-25 05:17:43
+Downloaded=2025-03-14 00:58:24
+3D=Y

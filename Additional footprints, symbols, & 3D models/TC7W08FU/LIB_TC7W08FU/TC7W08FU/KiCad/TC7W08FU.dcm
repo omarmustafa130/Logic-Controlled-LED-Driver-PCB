@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TC7W08FU
+D One-Gate Logic(L-MOS), 2-Input/AND, SOT-505(SM8)
+K
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=20199&prodName=TC7W08FU
+$ENDCMP
+#
+#End Doc Library

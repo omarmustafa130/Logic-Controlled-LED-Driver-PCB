@@ -1,0 +1,16 @@
+.74HCT11PW_118 :1 ;74HC(T)11 - Triple 3-input AND gate@en-us
+SOP65P640X110-14N
+*STM IC
+*NGS
+*PLB 1="1A" 2="1B" 3="2A" 4="2B" 5="2C" 6="2Y" 7="GND" 8="3Y" 9="3A" 10="3B" 11="3C" 12="1Y" 13="1C" 14="VCC"
+*MXP 14
+*DFN 74HCT11PW_118
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (74HCT11PW,118)
+~!Link Datasheet (https://assets.nexperia.com/documents/data-sheet/74HC_HCT11.pdf)
+~!Height (1.1mm)
+~!3D_Model (74HCT11PW,118)
+"74HCT11PW_118"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 8.1!U 

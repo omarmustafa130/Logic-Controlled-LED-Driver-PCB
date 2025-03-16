@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM7805MPX_NOPB
+D Linear Voltage Regulators 1.5-A, Wide VIN Fixed Voltage Regulators 4-SOT-223 0 to 0
+K
+F https://www.arrow.com/en/products/lm7805mpxnopb/texas-instruments
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "New_Library")(type "KiCad")(uri "C:/Users/Omarm/Desktop/MOSFET Controller/Library/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "MOSFET_CONTROLLER_LIB")(type "KiCad")(uri "C:/Users/Omarm/Desktop/MOSFET Controller/Library/MOSFET_CONTROLLER_LIB.kicad_sym")(options "")(descr ""))
+)

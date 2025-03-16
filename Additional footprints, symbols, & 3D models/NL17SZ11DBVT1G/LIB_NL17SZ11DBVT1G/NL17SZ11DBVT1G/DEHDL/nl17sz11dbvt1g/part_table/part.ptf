@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NL17SZ11DBVT1G'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "NL17SZ11DBVT1G" (!) = "", "SOT95P275X110-6N", "SOT23 (6-Pin)", "863-NL17SZ11DBVT1G", "https://www.mouser.co.uk/ProductDetail/onsemi/NL17SZ11DBVT1G?qs=xZ%2FP%252Ba9zWqZnwqtKbSYP0Q%3D%3D", "High Speed: tPD = 2.4 ns (Typ) @ VCC = 5.0 V; Designed for 1.65 V to 5.5 V VCC Operation; Low Power Dissipation: ICC = 1 A (Max) at TA = 25C; 24 mA Balanced Output Source and Sink Capability; Balanced Propagation Delays; Over-Voltage Tolerant Inputs and Outputs; UltraSmall Packages; These are PbFree Devices", "https://www.onsemi.com/pub/Collateral/NL17SZ11-D.PDF", "1.1 mm"
+END_PART
+
+END.

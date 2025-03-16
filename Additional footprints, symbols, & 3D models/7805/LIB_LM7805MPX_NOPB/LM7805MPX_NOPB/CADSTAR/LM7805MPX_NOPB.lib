@@ -1,0 +1,16 @@
+.LM7805MPX_NOPB :1 ;Linear Voltage Regulators 1.5-A, Wide VIN Fixed Voltage Regulators 4-SOT-223 0 to 0
+SOT230P700X180-4N
+*STM IC
+*NGS
+*PLB 1="INPUT" 2="GND_1" 3="OUTPUT" 4="GND_2"
+*MXP 4
+*DFN LM7805MPX_NOPB
+~!Mouser Part Number (595-LM7805MPX/NOPB)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM7805MPX-NOPB?qs=gO6GG99qvRCSwIVAoVKHPw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LM7805MPX/NOPB)
+~!Link Datasheet (https://www.arrow.com/en/products/lm7805mpxnopb/texas-instruments)
+~!Height (1.8mm)
+~!3D_Model (LM7805MPX_NOPB)
+LM7805MPX_NOPB
+1.1!U 2.1!U 3.1!U 4.1!U 

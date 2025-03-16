@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=74HCT11PW,118
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=14
+Version=9.1
+Released=2019-11-12 07:41:52
+Downloaded=2025-03-14 00:52:36
+3D=Y

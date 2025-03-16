@@ -1,0 +1,18 @@
+.TC7W08FU :1 ;One-Gate Logic(L-MOS), 2-Input/AND, SOT-505(SM8)
+TC7W53FUF
+*STM IC
+*NGS
+*PLB 1="1A" 2="1B" 3="2Y" 4="GND" 5="2A" 6="2B" 7="1Y" 8="VCC"
+*MXP 8
+*DFN TC7W08FU
+~!Manufacturer_Name (Toshiba)
+~!Manufacturer_Part_Number (TC7W08FU)
+~!Mouser Part Number (757-TC7W08FU)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Toshiba/TC7W08FU?qs=6ZVwTuetbD6UzVSf2Rcgiw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://toshiba.semicon-storage.com/info/docget.jsp?did=20199&prodName=TC7W08FU)
+~!Height (1.3mm)
+~!3D_Model (TC7W08FU)
+TC7W08FU
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

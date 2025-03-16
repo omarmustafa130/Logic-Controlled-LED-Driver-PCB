@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=NL17SZ11DBVT1G
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=2.1
+Released=2021-06-10 15:29:28
+Downloaded=2025-03-14 00:56:11
+3D=Y

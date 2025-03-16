@@ -1,0 +1,18 @@
+.B4B-EH-A_LF__SN_ :1 ;JST (JAPAN SOLDERLESS TERMINALS) - B4B-EH-A(LF)(SN) - CONNECTOR, HEADER, THT, 2.5MM, 4WAY
+SHDRV4W111P0_250_1X4_1250X380X600P
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN B4B-EH-A_LF__SN_
+~!Manufacturer_Name (JST (JAPAN SOLDERLESS TERMINALS))
+~!Manufacturer_Part_Number (B4B-EH-A(LF)(SN))
+~!Mouser Part Number (306-B4BEHALFSN)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/JST-Commercial/B4B-EH-ALFSN?qs=cdbOS8ANM9DAINrtzhP3dA%3D%3D)
+~!Arrow Part Number (B4B-EH-A(LF)(SN))
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/b4b-eh-a-lf-sn/jst-manufacturing?region=europe)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/4db6e353008cd822f9644e9913ed09f5.pdf)
+~!Height (6mm)
+~!3D_Model (B4B-EH-A_LF__SN_)
+B4B-EH-A_LF__SN_
+1.1!U 2.1!U 3.1!U 4.1!U 

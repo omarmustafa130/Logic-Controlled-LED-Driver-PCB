@@ -1,0 +1,9 @@
+Manufacturer=Toshiba
+PartNumber=TC7W08FU
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=8
+Version=4.2
+Released=2024-09-22 14:38:58
+Downloaded=2025-03-14 00:33:45
+3D=Y
